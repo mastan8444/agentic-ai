@@ -1,0 +1,6 @@
+python-pptx
+python-dotenv
+requests
+transformers
+accelerate
+langchain

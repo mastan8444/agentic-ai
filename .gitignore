@@ -1,0 +1,10 @@
+myvenv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.dll
+.env
+output/
+generated_images/
